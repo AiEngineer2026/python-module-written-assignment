@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+assignment.sqlite
+output/
+data/
+.venv/
+.env
